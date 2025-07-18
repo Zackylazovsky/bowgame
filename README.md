@@ -1,2 +1,0 @@
-# bowgame
-bow game
